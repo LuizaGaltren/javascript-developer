@@ -1,0 +1,12 @@
+Faça um programa para calcular o valor gasto de combustível em uma viagem
+
+Voce terá 5 variavéis. Sendo elas:
+
+1 - preço do etanol
+2 - Preço da gasolina
+3 - O tipo de combustivel que está no seu carro
+4 - gasto médio de combustivel do carro por km
+5 - distancia em km da viagem
+
+Imprima no console o valor que será gasto para realizar esta viagem
+
